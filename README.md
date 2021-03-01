@@ -1,1 +1,0 @@
-# Woocommerce-payment-QR-code
